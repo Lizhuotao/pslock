@@ -16,7 +16,8 @@
    ```bash
    go get github.com/Lizhuotao/pslock
    ```
-    ## Usage (Conceptual Example)
+    
+  ## Usage (Conceptual Example)
    ```go
    // Create Redis client
     client := redis.NewClient(&redis.Options{
